@@ -1,0 +1,2 @@
+[console_scripts]
+carla_image_viewer = carla_image_viewer.carla_image_viewer:main

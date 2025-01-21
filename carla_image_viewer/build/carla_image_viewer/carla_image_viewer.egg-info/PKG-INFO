@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: carla-image-viewer
+Version: 0.0.0
+Summary: A ROS 2 node to view CARLA RGB images
+Maintainer: your_name
+Maintainer-email: your_email@example.com
+License: Apache License 2.0
