@@ -1,0 +1,24 @@
+[0.607s] Invoking command in '/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer': CONDA_PROMPT_MODIFIER=(pjz_env) PYTHONPATH=/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/carla_image_viewer build --build-base /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/build install --record /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/install.log --single-version-externally-managed install_data
+[0.832s] running egg_info
+[0.840s] writing build/carla_image_viewer/carla_image_viewer.egg-info/PKG-INFO
+[0.840s] writing dependency_links to build/carla_image_viewer/carla_image_viewer.egg-info/dependency_links.txt
+[0.840s] writing entry points to build/carla_image_viewer/carla_image_viewer.egg-info/entry_points.txt
+[0.840s] writing requirements to build/carla_image_viewer/carla_image_viewer.egg-info/requires.txt
+[0.840s] writing top-level names to build/carla_image_viewer/carla_image_viewer.egg-info/top_level.txt
+[0.863s] reading manifest file 'build/carla_image_viewer/carla_image_viewer.egg-info/SOURCES.txt'
+[0.864s] writing manifest file 'build/carla_image_viewer/carla_image_viewer.egg-info/SOURCES.txt'
+[0.864s] running build
+[0.864s] running build_py
+[0.864s] copying carla_image_viewer/carla_image_viewer.py -> /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/build/lib/carla_image_viewer
+[0.864s] running install
+[0.867s] running install_lib
+[0.874s] copying /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/build/lib/carla_image_viewer/carla_image_viewer.py -> /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/python3.10/site-packages/carla_image_viewer
+[0.875s] byte-compiling /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/python3.10/site-packages/carla_image_viewer/carla_image_viewer.py to carla_image_viewer.cpython-310.pyc
+[0.876s] running install_data
+[0.876s] running install_egg_info
+[0.884s] removing '/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/python3.10/site-packages/carla_image_viewer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.884s] Copying build/carla_image_viewer/carla_image_viewer.egg-info to /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/python3.10/site-packages/carla_image_viewer-0.0.0-py3.10.egg-info
+[0.884s] running install_scripts
+[0.918s] Installing carla_image_viewer script to /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/carla_image_viewer
+[0.919s] writing list of installed files to '/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/install.log'
+[0.944s] Invoked command in '/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer' returned '0': CONDA_PROMPT_MODIFIER=(pjz_env) PYTHONPATH=/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/install/carla_image_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/carla_image_viewer build --build-base /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/build install --record /home/bitsauto/carla_experiments/lane_following_carla/carla_image_viewer/build/carla_image_viewer/install.log --single-version-externally-managed install_data
